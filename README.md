@@ -1,2 +1,3 @@
 # Image_Classifier
-mage classifier for cat-dog dataset, using CNN
+Image classifier for cat-dog dataset, using CNN
+Written by keras library.
